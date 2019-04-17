@@ -1,0 +1,12 @@
+Crear una página de web de cine utilizando el framework Bootstrap.
+La página debe contener una página de Inicio (presentación), una lista de películas y un formulario de contacto.
+
+La página de inicio debe incluir un menú horizontal y un carrusel de imágenes. También debemos incluir 4 películas de estreno en la misma fila. En la resolución de un dispositivo móvil, se verá una película por fila.
+
+El listado de películas debe mostrar una tabla con las películas disponibles. Se deberá utilizar el elemento DataTable.
+
+El formulario de contacto mostrará un mapa y un formulario donde se solicitará el nombre, teléfono, email, asunto y mensaje.
+Todos los campos son obligatorios menos el teléfono.
+
+Utilizar etiquetas HTML5 para definir la estructura de la página web. Utilizar en algún elemento de la página propiedades de estilo CSS3.
+Agregar más películas al fichero json.

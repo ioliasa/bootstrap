@@ -1,0 +1,39 @@
+{
+	"data": [
+		{
+			"id": "1",
+			"nombre": "La vida es bella",
+			"anyo": "1997",
+			"director": "Roberto Benigni",
+			"pais": "Italia"
+		},
+		{
+			"id": "2",
+			"nombre": "La lista de Schindler",
+			"anyo": "1993",
+			"director": "Steven Spielberg",
+			"pais": "Estados Unidos"
+		},
+		{
+			"id": "3",
+			"nombre": "Gladiador",
+			"anyo": "2000",
+			"director": "Ridley Scott",
+			"pais": "Estados Unidos"
+		},
+		{
+			"id": "4",
+			"nombre": "El pianista",
+			"anyo": "2002",
+			"director": "Roman Polanski",
+			"pais": "Reino Unido"
+		},
+		{
+			"id": "5",
+			"nombre": "El resplandor",
+			"anyo": "1980",
+			"director": "Stanley Kubrick",
+			"pais": "Estados Unidos"
+		}
+	]
+}
